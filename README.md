@@ -36,7 +36,7 @@ It is for both data-limited and data-augmentation scenarios.
 
 ## 3. training data<div id="contact"></div>
 
-The training data includes original GYAFC dataset, the outputs of a simple rule based system, and the psesudo-parallel data(only for s2s-sls_rnn_combined). To obtain our training data, you should first get the access to [GYAFC dataset](https://github.com/raosudha89/GYAFC-corpus). Once you have gained the access to GYAFC dataset, please forward the acknowledgment to wangyunli@buaa.edu.cn or rmwangyl@qq.com, then we will provide access to our training data for reproducing our method. 
+The training data includes original GYAFC dataset, the outputs of a simple rule based system, and the psesudo-parallel data(only for s2s-sls_rnn_combined). To obtain our training data, you should first get the access to [GYAFC dataset](https://github.com/raosudha89/GYAFC-corpus). Once you have gained the access to GYAFC dataset, please forward the acknowledgment to rmwangyl@qq.com, then we will provide access to our training data for reproducing our method. 
 
 ## 4. run
 
